@@ -1,0 +1,28 @@
+{
+    "welcome": "Bienvenue sur notre site !",
+    "sign_in": "Se connecter",
+    "register": "S'inscrire",
+    "logout": "Déconnexion",
+    "dashboard": "Tableau de bord",
+    "profile": "Profil",
+    "settings": "Paramètres",
+    "name": "Nom",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "confirm_password": "Confirmer le mot de passe",
+    "remember_me": "Se souvenir de moi",
+    "forgot_password": "Mot de passe oublié ?",
+    "reset_password": "Réinitialiser le mot de passe",
+    "send_password_reset_link": "Envoyer le lien de réinitialisation du mot de passe",
+    "home": "Accueil",
+    "about": "À propos",
+    "contact": "Contact",
+    "search": "Rechercher",
+    "search_placeholder": "Entrez votre recherche...",
+    "no_results_found": "Aucun résultat trouvé",
+    "pagination": {
+        "previous": "Précédent",
+        "next": "Suivant"
+    },
+    "all_rights_reserved": "Tous droits réservés."
+}
